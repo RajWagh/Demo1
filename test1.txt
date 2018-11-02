@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is AA1C-0EEF
+
+ Directory of C:\Users\Raj Waghmare\Desktop\MyApplican
+
+02/11/2018  09:44 AM    <DIR>          .
+02/11/2018  09:44 AM    <DIR>          ..
+02/11/2018  09:44 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  51,637,415,936 bytes free
